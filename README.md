@@ -145,4 +145,4 @@ the result are figures that are sorted in `./RQ1_result`, `./RQ1_result`, `./
 - `RQ1_Compare_2.R`: A modified version using a customized set of evaluation metrics.
 
 ## Contact us
-You may first follow the original authors’ README to reproduce their results, as our modifications are relatively small. We are still organizing the remaining instructions and will update this repository with the additional steps later.
+You may first follow the original authors’ README to reproduce their results, as our modifications are relatively small. We are still organizing the remaining instructions and will update this repository with the additional contents later.
